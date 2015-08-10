@@ -1,0 +1,10 @@
+{
+  "name": "siop",
+  "version": "0.1.0",
+  "description": "Japan Meteorological Agency seismic intensity observation point",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yohfee <yohfee@gmail.com>",
+  "license": "ISC"
+}
