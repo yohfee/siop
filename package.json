@@ -1,7 +1,7 @@
 {
   "name": "siop",
-  "version": "0.1.0",
-  "description": "Japan Meteorological Agency seismic intensity observation point",
+  "version": "0.0.1",
+  "description": "Japan Meteorological Agency seismic intensity observation point JSON generator",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
