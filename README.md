@@ -27,7 +27,9 @@ siop > data.json
 as npm module
 
 ```js
-require('siop')
+var siop = require('siop');
+
+siop()
   .then(function (data) {
     console.log(JSON.stringify(data));
   })

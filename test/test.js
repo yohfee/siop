@@ -1,7 +1,7 @@
 var test = require('tape');
 var nock = require('nock');
 
-var siop = require('../lib');
+var siop = require('../lib/siop');
 
 var scope = nock('http://www.data.jma.go.jp')
   .get('/svd/eqev/data/kyoshin/jma-shindo.html')

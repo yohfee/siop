@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-require('../lib')()
+require('../index')()
   .then(function (regions) {
     process.stdout.write(JSON.stringify(regions));
     exit(0);
