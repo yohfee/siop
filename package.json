@@ -1,6 +1,6 @@
 {
   "name": "siop",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Japan Meteorological Agency seismic intensity observation point JSON generator",
   "main": "index.js",
   "homepage": "https://github.com/yohfee/siop",
