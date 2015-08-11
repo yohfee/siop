@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "Japan Meteorological Agency seismic intensity observation point JSON generator",
   "scripts": {
+    "start": "./bin/cli.js",
     "test": "tape test/**/*.js"
   },
   "author": "yohfee <yohfee@gmail.com>",
